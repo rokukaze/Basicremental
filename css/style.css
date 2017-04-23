@@ -1,0 +1,14 @@
+#content {
+    float: right ;
+    width: 80% ;
+    background: #7688A9;
+}
+#menu {
+    float: left;
+    width: 20%;
+    background: #FFB4AA;
+}
+
+#container {
+    background: #9874AA;
+}
